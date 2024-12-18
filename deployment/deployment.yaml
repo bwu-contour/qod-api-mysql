@@ -24,7 +24,7 @@ spec:
               protocol: TCP
           env:
             - name: DB_HOST
-              value: qod-db-mysql
+              value: qod-db
             - name: DB_USER
               value: root
             - name: DB_PASS
